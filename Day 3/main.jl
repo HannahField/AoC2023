@@ -1,5 +1,4 @@
 using FileIO
-using LinearAlgebra
 
 data = open("input.txt", "r")
 data = read(data, String)
